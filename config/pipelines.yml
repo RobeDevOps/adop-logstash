@@ -1,5 +1,5 @@
 - pipeline.id: nginx
   path.config: /usr/share/logstash/pipeline/nginx.conf
 
-- pipeline.id: docker
-  path.config: /usr/share/logstash/pipeline/docker.conf
+- pipeline.id: docker_info
+  path.config: /usr/share/logstash/pipeline/docker_info.conf
