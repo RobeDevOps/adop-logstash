@@ -3,3 +3,6 @@
 
 - pipeline.id: docker_info
   path.config: /usr/share/logstash/pipeline/docker_info.conf
+
+- pipeline.id: sonar_metrics
+  path.config: /usr/share/logstash/pipeline/sonar_metrics.conf
