@@ -6,3 +6,6 @@
 
 - pipeline.id: sonar_metrics
   path.config: /usr/share/logstash/pipeline/sonar_metrics.conf
+
+- pipeline.id: jira_metrics
+  path.config: /usr/share/logstash/pipeline/jira_metrics.conf
