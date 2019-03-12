@@ -9,3 +9,6 @@
 
 - pipeline.id: jira_metrics
   path.config: /usr/share/logstash/pipeline/jira_metrics.conf
+
+- pipeline.id: jenkins_metrics
+  path.config: /usr/share/logstash/pipeline/jenkins_metrics.conf
